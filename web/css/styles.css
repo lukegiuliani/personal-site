@@ -29,6 +29,7 @@
 
       position: relative;
       top: 0.08em; 
+      left: 0.1em;
       font-size: 120%;
 
       animation: blink-animation 1s steps(2, start) infinite;
