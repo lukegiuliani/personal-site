@@ -19,7 +19,9 @@
    Author's styles
    ---------------------------------------------------------*/
     body {
-   
+      padding: 20px 40px;
+      background: #efefef;
+      color: #101010;
     }
 
 
